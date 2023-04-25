@@ -34,7 +34,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-**Hello Microverse** is a Hello Microverse repository.The goal is to master all of the tools and best practices learned in previous steps.
+**Hello Microverse** is a repository.The goal is to master all of the tools and best practices learned in previous steps.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -127,7 +127,7 @@ You can deploy this project using:
 > Mention all of the collaborators of this project.
 👤 Kiko
 
-- GitHub: [@githubhandle](https://https://github.com/kit0-0)
+- GitHub: [@kit0-0](https://github.com/kit0-0)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
